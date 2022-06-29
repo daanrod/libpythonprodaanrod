@@ -1,7 +1,16 @@
-language: python
-python:
-  - 3.10
-install:
-  - pip install -r requirements-dev.txt
-scripts:
-  - flake8
+{
+  "language": "python",
+  "os": [
+    "windows"
+  ],
+  "dist": "xenial",
+  "python": [
+    "3.10"
+  ],
+  "install": [
+    "pip install -r requirements-dev.txt"
+  ],
+  "script": [
+    "flake8"
+  ]
+}
