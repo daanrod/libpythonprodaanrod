@@ -7,6 +7,7 @@ Link para o curso [Python Pro](https://pythonpro.com.br)
 
 [![Updates](https://pyup.io/repos/github/daanrod/libpythonpro/shield.svg)](https://pyup.io/repos/github/daanrod/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/daanrod/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/daanrod/libpythonpro/)
+[![codecov](https://codecov.io/gh/daanrod/libpythonpro/branch/master/graph/badge.svg?token=JVSEH64ZAY)](https://codecov.io/gh/daanrod/libpythonpro)
 
 Suportada versão 3 de Python
 
