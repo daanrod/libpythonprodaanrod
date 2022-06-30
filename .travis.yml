@@ -1,8 +1,7 @@
 language: python
 python:
-  - 3.7
+  - 3.10
 install:
-  - pip install -q pipenv codecov
-  - pipenv sync --dev
+  - pip install -q -r riquirements-dev.txt
 script:
   - flake8
