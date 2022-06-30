@@ -6,8 +6,8 @@ Nesse curso é ensinado como contribuir com projetos e código aberto
 Link para o curso [Python Pro](https://pythonpro.com.br)
 
 [![Build Status](https://app.travis-ci.com/daanrod/libpythonpro.svg?branch=main)](https://app.travis-ci.com/daanrod/libpythonpro)
-[![Updates](https://pyup.io/repos/github/pythonprobr/libpythonpro/shield.svg)](https://pyup.io/repos/github/pythonprobr/libpythonpro/)
-[![Python 3](https://pyup.io/repos/github/pythonprobr/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/pythonprobr/libpythonpro/)
+[![Updates](https://pyup.io/repos/github/daanrod/libpythonpro/shield.svg)](https://pyup.io/repos/github/daanrod/libpythonpro/)
+[![Python 3](https://pyup.io/repos/github/daanrod/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/daanrod/libpythonpro/)
 
 Suportada versão 3 de Python
 
