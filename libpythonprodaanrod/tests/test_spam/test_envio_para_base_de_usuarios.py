@@ -6,7 +6,6 @@ from libpythonprodaanrod.spam.main import EnviadorDeSpam
 from libpythonprodaanrod.spam.modelos import Usuario
 
 
-
 @pytest.mark.parametrize(
     'usuarios',
     [
@@ -48,4 +47,3 @@ def test_parametros_de_spam(sessao):
         'Vambora!',
         'Conseguimos primo'
     )
-
