@@ -36,7 +36,3 @@ def test_remetente_invalido(remetente):
             'Vambora!',
             'Recebaaaaaaaaa'
         )
-
-
-
-
