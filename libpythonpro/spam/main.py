@@ -5,4 +5,3 @@ class EnviadorDeSpam:
 
     def enviar_emails(self, remetente, assunto, corpo):
         pass
-
