@@ -33,7 +33,7 @@ jobs:
         run: flake8
 
       - name: Test with pytest
-        run: pytest libpythonpro --cov=libpythonpro
+        run: pytest libpythonprodaanrod --cov=libpythonprodaanrod
 
       - name: Relatório Coverage
         env:
